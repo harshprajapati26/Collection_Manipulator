@@ -1,4 +1,3 @@
-# [Collection_Manipulator README.md](https://github.com/user-attachments/files/32792430/Collection_Manipulator.README.md)
 # 📚 Collection Manipulator
 
 ## 📌 Project Overview
