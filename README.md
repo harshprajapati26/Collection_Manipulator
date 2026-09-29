@@ -53,7 +53,7 @@ Displays all stored student records in a user-friendly formatted output.
 Example:
 
 ```text
-Student ID: 101 | Name: Harsh | Age: 21 | Grade: A+
+Student ID: 101 | Name: Harsh | Age: 20 | Grade: A+
 Subjects: Math, Science, English
 ```
 
