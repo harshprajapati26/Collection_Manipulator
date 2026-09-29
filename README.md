@@ -267,11 +267,10 @@ python collection_manipulator.py
 
 Watch the complete demonstration of the **Collection Manipulator / Student Data Organizer** here:
 
-### 🔗 Video Link
 
-**[▶️ Watch Project Demo](PASTE_YOUR_VIDEO_LINK_HERE)**
+**[▶️ Watch Project Demo]**
 
-> 📌 Replace `PASTE_YOUR_VIDEO_LINK_HERE` with your YouTube, Google Drive, or other video link.
+> 📌
 
 ---
 
@@ -294,7 +293,7 @@ After completing this project, you will understand how to:
 
 ## 👨‍💻 Author
 
-HARSH PRAJAPATI
+**HARSH PRAJAPATI**
 
 ### Language
 
